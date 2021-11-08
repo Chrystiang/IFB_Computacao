@@ -1,3 +1,7 @@
+// Faça um algoritmo que leia um código numérico inteiro e um vetor de 50 posições de números. 
+// Se o código for zero, termine o algoritmo. Se o código for 1, mostre o vetor na ordem como ele foi lido. 
+// Se o código for 2, mostre o vetor na ordem inversa, do último até o primeiro.
+
 #include <stdio.h>
 
 int main() {
